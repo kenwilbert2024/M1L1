@@ -1,0 +1,9 @@
+import random
+emojis = ["^^", "0_o", ":)", "¯\\_(ツ)_/¯", "(￢_￢)"]
+print(random.choice(emojis))
+
+foods = ["pizza", "sushi", "kfc"]
+print(random.choice(foods))
+
+hobbies = ["swimming", "reading", "play games"]
+print(random.choice(hobbies))
